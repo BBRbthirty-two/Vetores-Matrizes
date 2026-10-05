@@ -1,7 +1,6 @@
 import java.util.Scanner;
-
 public class Atividade6 {
-                public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[][] producao = new int[4][3];
         int[] totalCultura = new int[3];
